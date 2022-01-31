@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717534920021",
+    "project_id": "deep-link-311ec",
+    "storage_bucket": "deep-link-311ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717534920021:android:45fd37fbfd8ac8859f83dc",
+        "android_client_info": {
+          "package_name": "com.veirn.flutter_deeplinking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717534920021-rm708imt7c8vc0o4h7054g1rcfsavulb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veirn.flutter_deeplinking",
+            "certificate_hash": "5c18d451d7511efa5d29a8bf8fbe39a4d309a107"
+          }
+        },
+        {
+          "client_id": "717534920021-rlhpo7231mt2lshjfj9q13nrupgjmjbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAa8EH_NpkwV6Rvxm0vaSWICCl2OMfN20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717534920021-rlhpo7231mt2lshjfj9q13nrupgjmjbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
